@@ -1,4 +1,12 @@
-構想：
+# Rpi 4 house
+
+Trying integrate functions on a arm device:
+
+- [main file] (./house)
+- [A sample of simple factory pattern] (./simpFac)
+- [build libray] (./build)
+
+構想:
 
 equip: rpi3 or 4
 
